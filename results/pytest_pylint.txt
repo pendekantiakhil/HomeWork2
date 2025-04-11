@@ -7,6 +7,11 @@ testpaths: tests
 plugins: cov-4.1.0, pylint-0.21.0
 collecting ... collected 27 items
 
+
+
+
+
+
 tests/__init__.py::PYLINT SKIPPED (file(s) previously passed pylint ...) [  3%]
 tests/test_calculation.py::PYLINT SKIPPED (file(s) previously passed...) [  7%]
 tests/test_calculation.py::test_calculate[num10-num20-add-expected0] PASSED [ 11%]
