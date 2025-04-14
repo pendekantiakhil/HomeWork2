@@ -2,6 +2,11 @@ from decimal import Decimal
 from typing import Callable
 from calculator.operations import add, subtract, multiply, divide
 
+
+
+
+
+
 class Calculation:
     """
     This class is used to represent the arithmetic calculations which involves two decimal numbers and a operation.
